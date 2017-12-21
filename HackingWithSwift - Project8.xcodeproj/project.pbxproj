@@ -42,6 +42,7 @@
 				F9A2D6C41FEC53D8005535F6 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		F9A2D6C41FEC53D8005535F6 /* Products */ = {
 			isa = PBXGroup;
@@ -281,7 +282,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "PDFlanaganATX.HackingWithSwift---Project8";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -296,7 +297,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "PDFlanaganATX.HackingWithSwift---Project8";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
